@@ -1,8 +1,11 @@
 import { expect, it, describe } from 'bun:test';
-import { Hello } from './index';
+import { Vector, equal, dist } from "./index";
 
-describe('hello', () => {
-    it('shows Hello World', () => {
-        expect(Hello.hello()).toEqual('Hello World!');
+describe('types', () => {
+    it('check types', () => {
+        const v: Vector = [1, 2, 3];
+        expect(Array.isArray(v)).toBe(true);
+        expect(equal(v, [1, 2, 3])).toBe(true);
+        expect(dist(v, [1, 2, 3])).toBe(0);
     });
 });
