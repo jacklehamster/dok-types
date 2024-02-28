@@ -1,9 +1,10 @@
-# bun-template
-[![npm version](https://badge.fury.io/js/bun-template.svg)](https://www.npmjs.com/package/bun-template)
+# dok-types
 
-Bun template for creating projects using bunjs
+[![npm version](https://badge.fury.io/js/dok-types.svg)](https://www.npmjs.com/package/dok-types)
 
-![](https://jacklehamster.github.io/bun-template/icon.png)
+Base types used by Dok Engine.
+
+![](https://jacklehamster.github.io/dok-types/icon.png)
 ## Install bun
 
 https://bun.sh/
@@ -23,8 +24,8 @@ curl -fsSL https://bun.sh/install | bash
 
 ## Run example
 
-[https://jacklehamster.github.io/bun-template/example/](https://jacklehamster.github.io/bun-template/example/)
+[https://jacklehamster.github.io/dok-types/example/](https://jacklehamster.github.io/dok-types/example/)
 
 ## Github Source
 
-[https://github.com/jacklehamster/bun-template/](https://github.com/jacklehamster/bun-template/)
+[https://github.com/jacklehamster/dok-types/](https://github.com/jacklehamster/dok-types/)
