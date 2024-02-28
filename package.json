@@ -2,7 +2,7 @@
   "name": "dok-types",
   "module": "src/index.ts",
   "description": "Common types used by Dok game engine.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "keywords": [
     "bun",
     "bunjs",
